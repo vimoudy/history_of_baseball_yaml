@@ -10,4 +10,5 @@
       sql_on: ${batting.player_id} = ${player.player_id}
       relationship: many_to_one
 
-- explore: player 
+- explore: player
+
