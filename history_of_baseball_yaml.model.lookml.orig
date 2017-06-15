@@ -10,4 +10,13 @@
       sql_on: ${batting.player_id} = ${player.player_id}
       relationship: many_to_one
 
+<<<<<<< HEAD
 - explore: player
+
+
+
+
+
+=======
+- explore: player 
+>>>>>>> branch 'master' of git@github.com:vince-looker/history_of_baseball_yaml.git
